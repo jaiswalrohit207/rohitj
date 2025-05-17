@@ -1,23 +1,8 @@
-# rohitj
-portfolio website
+# Rohit Jaiswal — Portfolio
 
+🚀 Welcome to my personal portfolio site.
 
-Project Structure 
+**[Click here to view my resume]**(https://rohit20511.github.io/rohitj/)
 
-/portfolio-website
- ├── /public
- │   ├── profile.jpg  (Your photo)
- │   ├── favicon.ico
- │   └── index.html
- ├── /src
- │   ├── components
- │   │   ├── Header.js
- │   │   ├── Hero.js
- │   │   ├── Footer.js
- │   ├── App.js
- │   ├── index.js
- │   ├── styles.css
- ├── package.json
- ├── .gitignore
- ├── README.md
+This site is built using GitHub Pages to showcase my experience, skills, and projects.
 
